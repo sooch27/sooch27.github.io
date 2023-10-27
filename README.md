@@ -10,6 +10,6 @@
 
 ## Installation Instructions
 
-##Contact Information
+## Contact Information
 
-(Any other sections that apply to your project)
+
